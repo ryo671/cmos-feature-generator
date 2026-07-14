@@ -19,7 +19,7 @@ The pipeline reproduces the hardware behaviors of the proprietary CMOS image sen
 ### 1. Clone the Repository
 First, clone this repository to your local machine or workspace:
 ```bash
-git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
+git clone https://github.com/ryo671/cmos-feature-generator.git
 cd your_repository_name
 ```
 *(Note: Replace `your_username/your_repository_name` with your actual repository path)*
